@@ -1,0 +1,21 @@
+
+[
+    {
+        "title": "Gym Membership",
+        "amount": "1200",
+        "category": "Fitness",
+        "date": "2026-11-07"
+    },
+    {
+        "title": "Electricity Bill",
+        "amount": "850",
+        "category": "Utilities",
+        "date": "2026-11-07"
+    },
+    {
+        "title": "",
+        "amount": "invalid",
+        "category": "Other",
+        "date": "2026-11-07"
+    }
+]

@@ -1,0 +1,5 @@
+title,amount,category,date
+Coffee,120,Food,2026-11-07
+Taxi,300,Transport,2026-11-07
+Lunch,250,Food,2026-11-07
+,invalid,Travel,2026-11-07
