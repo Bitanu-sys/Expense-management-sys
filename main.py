@@ -98,7 +98,7 @@ def delete_expense_menu(expenses):
         print(f"Error: {error}")
 
 
-def view_summary(expenses):
+def view_summary(expenses): 
     summary = calculate_summary(expenses)
 
     print("\n--- Expense Summary ---")
