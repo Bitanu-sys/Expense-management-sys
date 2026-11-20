@@ -43,8 +43,8 @@ Expense-Management-System/
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd Expense-Management-System
+git clone https://github.com/Bitanu-sys/Expense-management-sys.git
+cd Expense-management-sys
 ```
 
 Install dependencies:
